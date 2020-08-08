@@ -1,2 +1,3 @@
-# Aplicacao-NodeJS
-Desenvolvendo API baseado no Product Hunt em JavaScript utilizando NodeJS, MongoDB e ExpressJS.
+# NodeJS-app
+
+API developed based on Product Hunt with JavaScript using NodeJS, MongoDB and ExpressJS.
